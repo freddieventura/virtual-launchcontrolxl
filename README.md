@@ -22,3 +22,8 @@ I have spent countless of hours trying to understand how everything of this work
 
 
 Check the Custom Script [Isotonik Launch Control XXL](https://isotonikstudios.com/product/launchcontrol-xxl/) , it allows you to create 32 Knobs , Parameter mappings. 
+
+
+### Screenshot
+
+![](virtual-launchcontrolxl-01.PNG)
