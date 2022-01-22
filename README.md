@@ -1,6 +1,8 @@
 # Virtual LaunchcontrolXL
 
-Midi device created with open stage control , compatible with Ableton and Novation LaunchControlXL software
+Midi device created with [Open Stage Control](https://github.com/jean-emmanuel/Open-Stage-Control/) , compatible with Ableton and Novation LaunchControlXL software
+
+[](o-s-c-logo.png)
 
 Note: There is no will at all to make any earnings out of it, just so you guys can enjoy the experience as close as  having the Real Hardware, but just with a touchscreen, so you can work remotely whenever you don't have access to the Real Hardware you have previously purchased.
 
